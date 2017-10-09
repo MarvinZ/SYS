@@ -2995,3 +2995,10 @@ footer h4.h05::after {
     display: none;
   }
 }
+
+
+#teby {
+  background-color: #C4C4C4;
+  opacity: 0.55;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
